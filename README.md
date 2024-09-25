@@ -13,7 +13,7 @@ while True:  # Bucle para pedir al usuario que adivine el número
     else:
         print("Inténtalo de nuevo.")  # Si la adivinanza es incorrecta
 
-        ![image](https://github.com/user-attachments/assets/26112552-6028-4869-9781-fae77da90df9)
+![image](https://github.com/user-attachments/assets/26112552-6028-4869-9781-fae77da90df9)
 ![image](https://github.com/user-attachments/assets/8e125f97-8f91-48ab-b57c-92c3fb84665f)
 
 
